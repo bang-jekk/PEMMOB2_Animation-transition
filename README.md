@@ -35,3 +35,14 @@ Aplikasi ini bertujuan agar mahasiswa memahami dan mampu mengimplementasikan:
 - AnimatedBuilder  
 - Transisi halaman (Page Transition)  
 - Animasi interaktif (Interactive Animation)  
+
+---
+
+## 👤 Identitas Mahasiswa 😎
+
+- **Nama** : Zainuddin Muhammad Zakiy
+- **NIM** : 23552011173
+- **KELAS** : TIF K 23B
+- **Universitas** : Universitas Teknologi Bandung
+ 
+---
