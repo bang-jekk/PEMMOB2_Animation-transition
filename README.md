@@ -1,10 +1,12 @@
 # 📱 KAHF Animation & Transition App (Flutter)
 
-![Home](screenshots/home.png)
-![Implicit Animation](screenshots/implicit_animation.png)
-![Explicit Animation](screenshots/explicit_animation.png)
-![Page Transition](screenshots/page_transition.png)
-![Interactive Animation](screenshots/interactive_animation.png)
+![Gambarnya](0_KAHF gambar/KAHF_1.png)
+![Gambarnya](0_KAHF gambar/KAHF_2.png)
+![Gambarnya](0_KAHF gambar/KAHF_3.png)
+![Gambarnya](0_KAHF gambar/KAHF_4.png)
+![Gambarnya](0_KAHF gambar/KAHF_5.png)
+![Gambarnya](0_KAHF gambar/KAHF_6.png)
+![Gambarnya](0_KAHF gambar/KAHF_7.png)
 
 ## 👤 Identitas
 
