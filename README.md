@@ -1,7 +1,7 @@
 # 📱 KAHF Animation & Transition App (Flutter)
 
 <p align="center">
-  <img src="KAHF_1.PNG" width="150"/>
+  <img src="KAHF_1.PNG" width="250"/>
   <img src="KAHF_2.PNG" width="150"/>
   <img src="KAHF_3.PNG" width="150"/>
   <img src="KAHF_4.PNG" width="150"/>
