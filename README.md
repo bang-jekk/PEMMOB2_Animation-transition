@@ -5,6 +5,9 @@
   <img src="KAHF_2.PNG" width="150"/>
   <img src="KAHF_3.PNG" width="150"/>
   <img src="KAHF_4.PNG" width="150"/>
+</p>
+
+<p align="center">
   <img src="KAHF_5.PNG" width="150"/>
   <img src="KAHF_6.PNG" width="150"/>
   <img src="KAHF_7.PNG" width="150"/>
